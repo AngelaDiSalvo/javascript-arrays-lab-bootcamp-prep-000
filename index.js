@@ -23,3 +23,6 @@ function prependKitten(name) {
   var oneMoreKitten = [name, ...kittens]
   return oneMoreKitten
 }
+function removeLastKitten() {
+  var oneLessKitten = 
+}
